@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:angular-upgrade" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49469c96-ccbb-4429-9407-de2b7db26a0a" name="Default Changelist" comment="Angular 10, PrimeNG -10 upgrade">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/graphbom/app/cors/SimpleCorsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/web/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/web/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/web/src/BaseURL.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphbom/app/rest/PartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphbom/app/rest/PartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/web/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/web/src/app/ebom/ebom.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/src/app/ebom/ebom.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/web/src/app/fileupload/fileupload.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/src/app/fileupload/fileupload.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/web/src/app/fileupload/fileupload.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/src/app/fileupload/fileupload.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/web/src/app/part/part.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/src/app/part/part.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/graphbom/graphbom/GraphBomApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/graphbom/graphbom/GraphBomApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Rhushikesh Velankar &lt;51327670+rhushikeshv@users.noreply.github.com&gt;" />
+        <option value="Rhushikesh Velankar &lt;51327670+rhushikeshv@users.noreply.github.com&gt;ad" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="angular-upgrade" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1280" />
+    <option name="y" value="-2" />
+    <option name="width" value="1920" />
+    <option name="height" value="1082" />
+  </component>
+  <component name="ProjectId" id="1jdzCAwAB2ydXsvfdvLNi0f1e19" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/src/main/web/node_modules/protractor" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/src/main/web/node_modules/typescript/lib" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.graphbom" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="C:\Work\github\graphbom\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GraphBomApplication">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphBomApplicationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.graphbom.graphbom.GraphBomApplicationTests" />
+      <module name="graphbom" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.graphbom.graphbom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2E Tests" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/src/main/web/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/src/main/web/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="GraphBomApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="graphbom" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.graphbom.GraphBomApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/src/main/web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GraphBomApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Rhushikesh.Velankar\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49469c96-ccbb-4429-9407-de2b7db26a0a" name="Default Changelist" comment="" />
+      <created>1571509366088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571509366088</updated>
+      <workItem from="1571509367675" duration="553000" />
+      <workItem from="1571510153874" duration="3374000" />
+      <workItem from="1571543961694" duration="301000" />
+      <workItem from="1571547505974" duration="596000" />
+      <workItem from="1571548588109" duration="282000" />
+      <workItem from="1571548588109" duration="145000" />
+      <workItem from="1577247970040" duration="49000" />
+      <workItem from="1578327730089" duration="1671000" />
+      <workItem from="1578808006892" duration="1447000" />
+      <workItem from="1578814059840" duration="1318000" />
+      <workItem from="1578815397620" duration="753000" />
+      <workItem from="1578816169349" duration="3235000" />
+      <workItem from="1580005063270" duration="1512000" />
+      <workItem from="1580007098909" duration="4646000" />
+      <workItem from="1580041349738" duration="3560000" />
+      <workItem from="1580045810324" duration="2091000" />
+      <workItem from="1580051364301" duration="3683000" />
+      <workItem from="1580055131038" duration="5627000" />
+      <workItem from="1580132944008" duration="27000" />
+      <workItem from="1580136748534" duration="2822000" />
+      <workItem from="1580140586906" duration="2057000" />
+      <workItem from="1580145412915" duration="5283000" />
+      <workItem from="1580235615501" duration="104000" />
+      <workItem from="1580403926896" duration="64000" />
+      <workItem from="1581005373383" duration="12000" />
+      <workItem from="1581348598955" duration="16000" />
+      <workItem from="1581789190454" duration="12000" />
+      <workItem from="1582355206373" duration="79000" />
+      <workItem from="1582995123959" duration="7000" />
+      <workItem from="1583581373994" duration="15460000" />
+      <workItem from="1583638167815" duration="14311000" />
+      <workItem from="1583768418575" duration="1106000" />
+      <workItem from="1604148628585" duration="7001000" />
+      <workItem from="1604213979042" duration="977000" />
+      <workItem from="1605459382195" duration="1236000" />
+      <workItem from="1605461358437" duration="281000" />
+      <workItem from="1605465659392" duration="352000" />
+      <workItem from="1605507531470" duration="13000" />
+      <workItem from="1605542323049" duration="620000" />
+      <workItem from="1605546659886" duration="6344000" />
+      <workItem from="1605590213861" duration="10653000" />
+      <workItem from="1605605776679" duration="10000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated with basic spring boot project">
+      <created>1571513555333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571513555333</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added the IDE project files">
+      <created>1571544098094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571544098094</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added the IDE project files">
+      <created>1571547266103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571547266103</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added the IDE project files">
+      <created>1571547533912</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571547533912</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added the IDE project files">
+      <created>1571547614477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571547614477</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added the IDE project files">
+      <created>1571547673614</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571547673614</updated>
+    </task>
+    <task id="LOCAL-00007" summary="udpated with datasource config">
+      <created>1571548038832</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571548038832</updated>
+    </task>
+    <task id="LOCAL-00008" summary="udpated with datasource config">
+      <created>1571548081105</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571548081105</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add compiler settings">
+      <created>1571548819371</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571548819371</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added angular project">
+      <created>1571560723247</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1571560723247</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added styles">
+      <created>1571563617737</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571563617737</updated>
+    </task>
+    <task id="LOCAL-00012" summary="modified workspace">
+      <created>1571564181620</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571564181620</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updated with structure creation">
+      <created>1580020532228</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580020532228</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fixed the defect in part search">
+      <created>1580022331787</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580022331787</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixed the defect in part search">
+      <created>1580047110038</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580047110039</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added uuid to the node and relationships, each uuid will uniquely identify the node and relationship object in neo4j graphdb">
+      <created>1580061230287</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580061230288</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added uuid to the node and relationships, each uuid will uniquely identify the node and relationship object in neo4j graphdb">
+      <created>1580061391171</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580061391171</updated>
+    </task>
+    <task id="LOCAL-00018" summary="UUID is shown in the part search results">
+      <created>1580062527791</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1580062527791</updated>
+    </task>
+    <task id="LOCAL-00019" summary="UUID is shown in the part search results">
+      <created>1580062553866</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580062553866</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Import BOM functionality complete">
+      <created>1580151234982</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580151234982</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Import BOM functionality complete">
+      <created>1582355216800</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1582355216800</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Import BOM functionality complete for Bike Assembly (example)">
+      <created>1583597243727</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1583597243727</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Part Management table added">
+      <created>1583604206383</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1583604206383</updated>
+    </task>
+    <task id="LOCAL-00024" summary="bike csv to import the bike bom as the graph/semantic bom">
+      <created>1583604350398</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1583604350398</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Part crud is complete">
+      <created>1583652390808</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1583652390808</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Angular 10, PrimeNG -10 upgrade">
+      <created>1604154833634</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1604154833634</updated>
+    </task>
+    <task id="LOCAL-00027" summary="UI Framework screenshot (Contribution 1)">
+      <created>1604214369855</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1604214369855</updated>
+    </task>
+    <task id="LOCAL-00028" summary="UI Framework screenshot (Contribution 1)">
+      <created>1604214419443</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1604214419443</updated>
+    </task>
+    <task id="LOCAL-00029" summary="UI Framework screenshot (Contribution 1)">
+      <created>1604214452290</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1604214452290</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="angular-upgrade" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="updated with basic spring boot project" />
+    <MESSAGE value="added the IDE project files" />
+    <MESSAGE value="udpated with datasource config" />
+    <MESSAGE value="add compiler settings" />
+    <MESSAGE value="added angular project" />
+    <MESSAGE value="added styles" />
+    <MESSAGE value="modified workspace" />
+    <MESSAGE value="updated with structure creation" />
+    <MESSAGE value="fixed the defect in part search" />
+    <MESSAGE value="added uuid to the node and relationships, each uuid will uniquely identify the node and relationship object in neo4j graphdb" />
+    <MESSAGE value="UUID is shown in the part search results" />
+    <MESSAGE value="Import BOM functionality complete" />
+    <MESSAGE value="Import BOM functionality complete for Bike Assembly (example)" />
+    <MESSAGE value="Part Management table added" />
+    <MESSAGE value="bike csv to import the bike bom as the graph/semantic bom" />
+    <MESSAGE value="Part crud is complete" />
+    <MESSAGE value="Angular 10, PrimeNG -10 upgrade" />
+    <MESSAGE value="UI Framework screenshot (Contribution 1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="UI Framework screenshot (Contribution 1)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="121" key="#Project_Structure" timestamp="1604203481002">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="#Project_Structure/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1604203481002" />
+    <state x="773" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1605552675405">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605552675405" />
+    <state width="1878" height="318" key="GridCell.Tab.0.bottom" timestamp="1605603032815">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="318" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605603032815" />
+    <state width="1878" height="318" key="GridCell.Tab.0.center" timestamp="1605603032815">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="318" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605603032815" />
+    <state width="1878" height="318" key="GridCell.Tab.0.left" timestamp="1605603032815">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="318" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605603032815" />
+    <state width="1878" height="318" key="GridCell.Tab.0.right" timestamp="1605603032815">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="318" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605603032815" />
+    <state width="1878" height="318" key="GridCell.Tab.1.bottom" timestamp="1605603032816">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="318" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605603032816" />
+    <state width="1878" height="318" key="GridCell.Tab.1.center" timestamp="1605603032816">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="318" key="GridCell.Tab.1.center/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605603032816" />
+    <state width="1878" height="318" key="GridCell.Tab.1.left" timestamp="1605603032816">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="318" key="GridCell.Tab.1.left/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605603032816" />
+    <state width="1878" height="318" key="GridCell.Tab.1.right" timestamp="1605603032816">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="318" key="GridCell.Tab.1.right/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605603032816" />
+    <state x="548" y="282" key="IDE.errors.dialog" timestamp="1604214331264">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="548" y="282" key="IDE.errors.dialog/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1604214331264" />
+    <state x="781" y="249" key="RollbackChangesDialog" timestamp="1604155562484">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="781" y="249" key="RollbackChangesDialog/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1604155562484" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1605461628622">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605461628622" />
+    <state x="560" y="267" key="Vcs.Push.Dialog.v2" timestamp="1604214453482">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1604214453482" />
+    <state x="660" y="297" width="1260" height="757" key="find.popup" timestamp="1605542844467">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="297" width="1260" height="757" key="find.popup/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1605542844467" />
+    <state x="649" y="335" key="git4idea.merge.GitPullDialog" timestamp="1604214653936">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="649" y="335" key="git4idea.merge.GitPullDialog/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1604214653936" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1604151792537">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1280.0.1280.1024@0.0.1920.1080" timestamp="1604151792537" />
+  </component>
+</project>
