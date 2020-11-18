@@ -77,10 +77,12 @@ Modify the conf/neo4j.conf file for unrestricted access to apoc procedures
 dbms.security.procedures.unrestricted=apoc.*
 
 
-#1 Upgrade UI framework ( PrimeNG 10)
+# Contribution 1 Upgrade UI framework ( PrimeNG 10)
 
 Search and Display BOM (New UI)
 ![Alt text](/UI_Framework.png)
+
+# Contribution 2 : Rearchitecture of monolithic app to microservices, deployment uisng Docker 
 
 # graphbom-microservices
 
